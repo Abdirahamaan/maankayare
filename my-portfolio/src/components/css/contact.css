@@ -1,0 +1,35 @@
+/* src/components/css/contact.css */
+
+.contact {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info span {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .contact-info a {
+    color: #0077b5; /* LinkedIn blue */
+    text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+  

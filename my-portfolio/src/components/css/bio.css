@@ -1,0 +1,49 @@
+/* src/components/css/bio.css */
+
+.bio {
+  
+    /* background-color: #f9f9f9; */
+    padding: 23px;
+    border-radius: 9px;
+    box-shadow: 0 2px 4px rgba(85, 73, 73, 0.1);
+  }
+  
+  .bio-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .bio-text {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .bio-heading {
+    font-size: 24px;
+    color: #d1bc37;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .bio-image {
+    flex: 1;
+    text-align: center; /* Center the image horizontally */
+  }
+  
+  .bio-image img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 8px;
+  }
+  .bio-bio{
+    color: rgb(235, 206, 206);
+  }
+ .foot{
+    background-color: rgb(198, 26, 149) ;
+    background-image: url("./public/hd.png");
+    text-align: center;
+    padding: 20px;
+    /* background-color: #0800ff; */
+
+    font-size: 20px;
+ }

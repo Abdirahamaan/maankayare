@@ -1,0 +1,62 @@
+/* src/components/css/skills.css */
+
+.skills {
+    background-color: #c41515;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .skills-heading {
+    font-size: 24px;
+    color: #1c0d0d;
+    margin-bottom: 10px;
+  }
+  
+  .skills-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .skills-list img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+  }
+  
+  /* Customize the icons and colors as needed */
+/* src/components/css/skills.css */
+
+.skills {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.column {
+  flex: 1;
+  margin-right: 10px; /* Add spacing between columns */
+}
+
+/* Customize the image styling as desired */
+.column img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.foot{
+    background-color: rgba(51, 48, 48, 0.644) ;
+    background-image: url("./public/hd.png");
+    text-align: center;
+    padding: 20px;
+    /* background-color: #0800ff; */
+    overflow: hidden;
+    font-size: 20px;
+ }
+  

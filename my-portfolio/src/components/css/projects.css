@@ -1,0 +1,36 @@
+/* src/components/css/projects.css */
+
+.projects {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(25, 25, 39);
+    
+  }
+  
+  .projects-heading {
+    font-size: 24px;
+    color: #e359a2;
+    margin-bottom: 10px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #4bd32d;
+    border-radius: 8px;
+  }
+  
+  .project h3 {
+    font-size: 18px;
+    color: #ab1818;
+  }
+  
+  .project p {
+    font-size: 24px;
+    color: #53c718;
+    
+  }
+  
+  /* Customize the styling as needed */
+  
